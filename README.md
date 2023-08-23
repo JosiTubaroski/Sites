@@ -10,7 +10,7 @@
 
  - Criação de Site, primeiros passos (Visual Code, HTML, CSS, JavaScript)
 <div> 
-<p><a href="https://github.com/JosiTubaroski/SQL">1 - Criando um site com visual code</a></p>
+<p><a href="https://github.com/JosiTubaroski/Sites/blob/main/Criando%20Sites.ipynb">1 - Criando um site com visual code</a></p>
 </div> 
 
 
