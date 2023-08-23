@@ -18,7 +18,7 @@
 - Códigos dos sites hospedados no github pages
 
 <div> 
-<p><a href="https://jositubaroski.github.io/">1 - Trilha de Estudos e Projetos em Dados</a></p>
+<p><a href="https://github.com/JosiTubaroski/JosiTubaroski.github.io">1 - Códigos para páginas de repositórios de Estudos e Projetos em Dados</a></p>
 </div> 
 
 <div> 
