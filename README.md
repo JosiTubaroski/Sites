@@ -22,7 +22,7 @@
 </div> 
 
 <div> 
-<p><a href="https://jositubaroski.github.io/API_GITHUB/">2 - Respositórios em Ordem Alfabetica</a></p>
+<p><a href="https://github.com/JosiTubaroski/API_GITHUB/tree/main">2 - Códigos para páginas de respositórios em Ordem Alfabetica</a></p>
 </div> 
 
 
