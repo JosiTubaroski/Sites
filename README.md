@@ -31,6 +31,11 @@
 <p><a href="https://github.com/JosiTubaroski/Sites/tree/main/Exercicios_JavaScript_PrimeiraParte">1 - Execicios JavaScript Primeira Parte</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Sites/tree/main/Exercicios_JavaScript_SegundaParte">2 - Execicios JavaScript Segunda Parte</a></p>
+</div> 
+
+
 
 
 
