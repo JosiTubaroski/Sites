@@ -38,7 +38,7 @@
 - Bootstrap
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Bootstrap/tree/main">1 - Página de Login com bootstrap</a></p>
+<p><a href="https://github.com/JosiTubaroski/Bootstrap/tree/main">1 - O que é o bootstrap? O que são paginas responsivas? Exemplo de um código que cria uma tela de login com bootstrap co</a></p>
 </div> 
 
 
