@@ -1,6 +1,6 @@
 # Sites / Desenvolvimento WEB
 
- ## Criação de Site, primeiros passos (Visual Code, HTML, CSS, JavaScript)
+ ## Criação de Site, Visual Code / HTML / CSS / JavaScript / Bootstrap / .NET8
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Sites/blob/main/Criando%20Sites.ipynb">1 - Criando um site com visual code</a></p>
 </div> 
