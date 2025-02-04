@@ -1,6 +1,6 @@
 # Sites / Desenvolvimento WEB
 
- ## Criação de Site, Visual Code / HTML / CSS / JavaScript / Bootstrap / .NET8
+ ## Criação de Site, Visual Code / HTML / CSS / JavaScript / Bootstrap 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Sites/blob/main/Criando%20Sites.ipynb">1 - Criando um site com visual code</a></p>
 </div> 
@@ -41,11 +41,7 @@
 <p><a href="https://github.com/JosiTubaroski/Bootstrap/tree/main">1 - O que é o bootstrap? O que são paginas responsivas? Exemplo de um código que cria uma tela de login com bootstrap </a></p>
 </div> 
 
-#### ✨ Desenvolvimento WEB API com .NET8 e SQLServer
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server">1 - O que é o bootstrap? O que são paginas responsivas? Exemplo de um código que cria uma tela de login com bootstrap </a></p>
-</div> 
 
 
 
